@@ -1,2 +1,1 @@
-# testrepoafdsdfasdfsdfasd
-asdasd
+test git pull cmd
